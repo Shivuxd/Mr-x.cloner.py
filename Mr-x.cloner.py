@@ -1,9 +1,9 @@
-#Author   : AKASH BLACK HAT
-#Facebook : https://rb.gy/hmpqav
-#whatsapp : +91 8389020949
-#GMAIL    : AKASHRAM800AS@GAIL.COM
-#YOUTUB   : TECHNICAL AKASH SKILLS
-# my hacking page : https://rb.gy/hmpqav
+#Author   : NICK X FRENZY
+#Facebook : https://www.facebook.com/NickXDdbau
+
+
+
+
 
 #bin/bass/python3
 import marshal,base64
