@@ -4,7 +4,7 @@
      apt install python2
      apt install git
      apt install pip
-     git clone https://github.com/akashblackhat/Mr-x.cloner.py.git
+     git clone https://github.com/Shivuxd/Mr-x.cloner.py.git
      ls
      cd Mr-x.cloner.p
      ls
